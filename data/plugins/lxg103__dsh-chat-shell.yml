@@ -1,0 +1,6 @@
+url: https://github.com/lxg103/dsh-chat-shell
+name: lxg103/dsh-chat-shell
+category: ui
+description:
+  en: 'Puts a Chat / Harness switch in the title bar, embedding DeepSeek, Doubao or ChatGPT in the whole window and switching back to Harness without reloading either side.'
+  zh: '在标题栏加一个 Chat / Harness 开关，把整个窗口换成 DeepSeek、豆包或 ChatGPT 网页，再一键切回 Harness，两边都不重载。'
